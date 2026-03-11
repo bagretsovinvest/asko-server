@@ -1,0 +1,311 @@
+{
+  "user": {
+    "id": "u1",
+    "name": "Твой профиль",
+    "handle": "asko.me",
+    "bio": "Здесь мне можно задать вопрос анонимно, а я отвечу красиво и по делу.",
+    "avatar": "A",
+    "streakDays": 6,
+    "followers": 148,
+    "following": 37,
+    "profileLink": "https://vk.com/appYOUR_APP_ID#profile/asko.me",
+    "tagline": "Задай мне вопрос анонимно",
+    "avatarIcon": "asko"
+  },
+  "premium": {
+    "active": false,
+    "plan": "monthly",
+    "expiresAt": null,
+    "priceMonth": "149 ₽/мес",
+    "priceYear": "990 ₽/год",
+    "features": [
+      "Показывает, кто отправил анонимный вопрос",
+      "Можно раскрывать автора прямо в карточке вопроса",
+      "Дает расширенный доступ к деталям вопросов"
+    ]
+  },
+  "stories": [
+    {
+      "id": "s1",
+      "title": "Для тебя",
+      "avatar": "A",
+      "color": "violet",
+      "type": "self",
+      "subtitle": "Твоя страница"
+    },
+    {
+      "id": "s2",
+      "title": "Огонёк",
+      "avatar": "🔥",
+      "color": "orange",
+      "type": "best",
+      "subtitle": "Лучшие ответы"
+    },
+    {
+      "id": "s3",
+      "title": "Мария",
+      "avatar": "МА",
+      "color": "blue",
+      "type": "user",
+      "subtitle": "Подписка",
+      "userId": "p1"
+    },
+    {
+      "id": "s4",
+      "title": "Лев",
+      "avatar": "ЛЕ",
+      "color": "mint",
+      "type": "user",
+      "subtitle": "Новый ответ",
+      "userId": "p2"
+    },
+    {
+      "id": "s5",
+      "title": "Ника",
+      "avatar": "НИ",
+      "color": "pink",
+      "type": "user",
+      "subtitle": "Популярно",
+      "userId": "p3"
+    },
+    {
+      "id": "s6",
+      "title": "Рома",
+      "avatar": "РО",
+      "color": "cyan",
+      "type": "user",
+      "subtitle": "Рядом",
+      "userId": "p4"
+    }
+  ],
+  "discoverUsers": [
+    {
+      "id": "p1",
+      "name": "Мария Лебедева",
+      "handle": "maria.leb",
+      "avatar": "МЛ",
+      "note": "Отвечает с юмором",
+      "followers": 912,
+      "following": 54,
+      "followed": false,
+      "accent": "blue"
+    },
+    {
+      "id": "p2",
+      "name": "Лев Орлов",
+      "handle": "lev.orlov",
+      "avatar": "ЛО",
+      "note": "Любит честные вопросы",
+      "followers": 604,
+      "following": 18,
+      "followed": true,
+      "accent": "mint"
+    },
+    {
+      "id": "p3",
+      "name": "Ника Белая",
+      "handle": "nikawhite",
+      "avatar": "НБ",
+      "note": "Короткие ответы и сторис",
+      "followers": 1230,
+      "following": 71,
+      "followed": false,
+      "accent": "pink"
+    },
+    {
+      "id": "p4",
+      "name": "Роман Савин",
+      "handle": "rom.savin",
+      "avatar": "РС",
+      "note": "Музыка, учёба, друзья",
+      "followers": 342,
+      "following": 66,
+      "followed": false,
+      "accent": "cyan"
+    },
+    {
+      "id": "p5",
+      "name": "Ева Миронова",
+      "handle": "evamira",
+      "avatar": "ЕМ",
+      "note": "Тёплый профиль",
+      "followers": 788,
+      "following": 40,
+      "followed": true,
+      "accent": "violet"
+    },
+    {
+      "id": "p6",
+      "name": "Илья Титов",
+      "handle": "ilyatitov",
+      "avatar": "ИТ",
+      "note": "Очень активен вечером",
+      "followers": 421,
+      "following": 29,
+      "followed": false,
+      "accent": "orange"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Что тебя сейчас правда радует каждый день?",
+      "mood": "soft",
+      "createdAt": "2026-03-08T22:50:51.969Z",
+      "archived": false,
+      "answered": false,
+      "important": true,
+      "senderHint": "Аноним",
+      "senderProfile": {
+        "id": "p5",
+        "name": "Ева Миронова",
+        "handle": "evamira",
+        "avatar": "ЕМ",
+        "relation": "Подписка"
+      },
+      "revealed": false
+    },
+    {
+      "id": "q2",
+      "text": "Какой совет ты дашь себе в начале года?",
+      "mood": "thoughtful",
+      "createdAt": "2026-03-08T17:50:51.969Z",
+      "archived": false,
+      "answered": false,
+      "important": false,
+      "senderHint": "Аноним",
+      "senderProfile": {
+        "id": "p3",
+        "name": "Ника Белая",
+        "handle": "nikawhite",
+        "avatar": "НБ",
+        "relation": "Из круга общения"
+      },
+      "revealed": false
+    },
+    {
+      "id": "q3",
+      "text": "С кем тебе проще всего быть собой?",
+      "mood": "warm",
+      "createdAt": "2026-03-08T04:50:51.969Z",
+      "archived": false,
+      "answered": false,
+      "important": false,
+      "senderHint": "Подписчик",
+      "senderProfile": {
+        "id": "p2",
+        "name": "Лев Орлов",
+        "handle": "lev.orlov",
+        "avatar": "ЛО",
+        "relation": "Подписка"
+      },
+      "revealed": false
+    },
+    {
+      "id": "q4",
+      "text": "Какой фильм ты пересматриваешь без усталости?",
+      "mood": "fun",
+      "createdAt": "2026-03-07T00:50:51.969Z",
+      "archived": false,
+      "answered": true,
+      "important": false,
+      "senderHint": "Аноним",
+      "senderProfile": {
+        "id": "p4",
+        "name": "Роман Савин",
+        "handle": "rom.savin",
+        "avatar": "РС",
+        "relation": "Недавно рядом"
+      },
+      "revealed": false
+    }
+  ],
+  "answers": [
+    {
+      "id": "a1",
+      "questionId": "q4",
+      "text": "Каждый раз возвращаюсь к фильмам, где после просмотра становится легче внутри.",
+      "createdAt": "2026-03-07T14:50:51.969Z",
+      "publishedAt": "2026-03-07T14:50:51.969Z",
+      "theme": "sunset",
+      "likes": 46,
+      "comments": 8,
+      "views": 318,
+      "bookmarked": true,
+      "likedBy": [],
+      "viewedBy": [
+        "seed-view"
+      ]
+    },
+    {
+      "id": "a2",
+      "questionId": null,
+      "text": "Мне нравится атмосфера, где можно отвечать честно и без напряжения.",
+      "createdAt": "2026-03-05T00:50:51.969Z",
+      "publishedAt": "2026-03-05T00:50:51.969Z",
+      "theme": "violet",
+      "likes": 63,
+      "comments": 14,
+      "views": 511,
+      "bookmarked": false,
+      "likedBy": [],
+      "viewedBy": [
+        "seed-view"
+      ]
+    }
+  ],
+  "drafts": [
+    {
+      "id": "d1",
+      "questionId": "q2",
+      "text": "Не пытаться успеть всё сразу. Лучше меньше, но по-настоящему.",
+      "updatedAt": "2026-03-08T21:50:51.969Z",
+      "theme": "midnight"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n1",
+      "title": "У тебя 3 вопроса без ответа",
+      "description": "Лучше закрыть входящие сейчас, пока люди ждут.",
+      "cta": "Открыть вопросы",
+      "target": {
+        "screen": "inbox",
+        "filter": "new"
+      },
+      "createdAt": "2026-03-09T00:00:51.969Z",
+      "read": false
+    },
+    {
+      "id": "n2",
+      "title": "Серия активности продолжается",
+      "description": "Ответь ещё на один вопрос сегодня, чтобы не потерять серию.",
+      "cta": "Ответить",
+      "target": {
+        "screen": "answer"
+      },
+      "createdAt": "2026-03-08T21:50:51.969Z",
+      "read": false
+    },
+    {
+      "id": "n3",
+      "title": "Премиум откроет авторов вопросов",
+      "description": "С Premium можно увидеть, кто именно писал тебе анонимно.",
+      "cta": "Попробовать",
+      "target": {
+        "action": "premium"
+      },
+      "createdAt": "2026-03-08T19:50:51.969Z",
+      "read": false
+    }
+  ],
+  "settings": {
+    "reminderHour": 19,
+    "remindersEnabled": true,
+    "theme": "dark",
+    "vkReady": true
+  },
+  "createdAt": "2026-03-09T00:50:51.970Z",
+  "updatedAt": "2026-03-09T00:50:51.970Z",
+  "lastCheckInAt": "2026-03-08T06:50:51.969Z"
+}
