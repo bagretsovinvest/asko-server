@@ -1,0 +1,38 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="1920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="mask" x1="210" y1="144" x2="870" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BB8FF"/>
+      <stop offset="1" stop-color="#FF8CCF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="42" y="42" width="996" height="1836" rx="46" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="88" y="118" width="136" height="136" rx="38" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M120 188c0-28 20-44 44-44s44 16 44 44v12h10c13 0 24 11 24 24v36c0 13-11 24-24 24h-108c-13 0-24-11-24-24v-36c0-13 11-24 24-24h10v-12z" fill="url(#mask)" transform="translate(16 -14) scale(0.8)"/>
+  <circle cx="150" cy="188" r="10" fill="#07101F"/>
+  <circle cx="192" cy="188" r="10" fill="#07101F"/>
+  <path d="M142 224C155 235 169 240 181 240C194 240 208 235 220 224" stroke="white" stroke-opacity="0.82" stroke-width="4" stroke-linecap="round"/>
+  <text x="260" y="190" fill="white" font-size="88" font-family="Arial, sans-serif" font-weight="800">Asko</text>
+  <text x="260" y="246" fill="rgba(255,255,255,0.72)" font-size="38" font-family="Arial, sans-serif" font-weight="600">вопросы, ответы и сторис</text>
+
+  <rect x="72" y="382" width="936" height="470" rx="44" fill="rgba(255,255,255,0.1)"/>
+  <text x="112" y="452" fill="rgba(255,255,255,0.78)" font-size="34" font-family="Arial, sans-serif" font-weight="700">для друзей</text>
+  <text x="112" y="560" fill="white" font-size="84" font-family="Arial, sans-serif" font-weight="800">Нажми и задай</text>
+  <text x="112" y="670" fill="white" font-size="84" font-family="Arial, sans-serif" font-weight="800">мне вопрос</text>
+  <text x="112" y="780" fill="white" font-size="84" font-family="Arial, sans-serif" font-weight="800">анонимно</text>
+
+  <rect x="72" y="930" width="936" height="512" rx="54" fill="rgba(7,12,24,0.22)"/>
+  <text x="112" y="1000" fill="rgba(255,255,255,0.8)" font-size="34" font-family="Arial, sans-serif" font-weight="700">что увидят друзья</text>
+  <text x="112" y="1110" fill="white" font-size="58" font-family="Arial, sans-serif" font-weight="800">Кнопка на сторис</text>
+  <text x="112" y="1190" fill="white" font-size="58" font-family="Arial, sans-serif" font-weight="800">откроет приложение</text>
+  <text x="112" y="1270" fill="white" font-size="58" font-family="Arial, sans-serif" font-weight="800">и форму вопроса</text>
+  <text x="112" y="1370" fill="rgba(255,255,255,0.76)" font-size="36" font-family="Arial, sans-serif" font-weight="600">коротко, красиво и без лишних шагов</text>
+
+  <rect x="112" y="1548" width="856" height="156" rx="34" fill="rgba(255,255,255,0.16)" stroke="rgba(255,255,255,0.14)"/>
+  <text x="540" y="1648" text-anchor="middle" fill="white" font-size="58" font-family="Arial, sans-serif" font-weight="800">Задать вопрос</text>
+  <text x="540" y="1728" text-anchor="middle" fill="rgba(255,255,255,0.74)" font-size="30" font-family="Arial, sans-serif" font-weight="700">tap to ask in Asko</text>
+</svg>
